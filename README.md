@@ -1,0 +1,1 @@
+# qr-generator-node.js
